@@ -1,0 +1,28 @@
+{
+  "name": "bobtail-util",
+  "version": "0.1.0",
+  "description": "A set of utility functions for bobtail",
+  "main": "dist/utils.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inferinc/bobtail-util.git"
+  },
+  "keywords": [
+    "bobtail",
+    "reactive",
+    "programming"
+  ],
+  "author": "Richard Mehlinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmehlinger/bobtail-util/issues"
+  },
+  "homepage": "https://github.com/rmehlinger/bobtail-util#readme",
+  "peerDependencies": {
+    "bobtail": ">=1.7.0"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
