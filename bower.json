@@ -1,0 +1,21 @@
+{
+  "name": "bobtail-util",
+  "description": "A set of utility functions for bobtail",
+  "main": "dist/utils.js",
+  "authors": [
+    "Richard Mehlinger"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bobtail",
+    "reactive"
+  ],
+  "homepage": "https://github.com/inferinc/bobtail-util",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
